@@ -1,0 +1,25 @@
+{
+  "name": "slackbot-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lily2point0/slackbot-workshop.git"
+  },
+  "author": "Lily2point0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lily2point0/slackbot-workshop/issues"
+  },
+  "homepage": "https://github.com/Lily2point0/slackbot-workshop#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "node-slack-upload": "^1.2.1",
+    "path": "^0.12.7",
+    "slackbots": "^1.2.0"
+  }
+}
