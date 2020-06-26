@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Lily2point0/slackbot-workshop#readme",
   "dependencies": {
     "dotenv": "^6.2.0",
-    "node-slack-upload": "^1.2.1",
+    "node-slack-upload": "^2.0.0",
     "path": "^0.12.7",
     "slackbots": "^1.2.0"
   }
